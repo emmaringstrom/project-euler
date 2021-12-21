@@ -14,4 +14,9 @@ def natsum(n):
 
 n = 999
 
-print(natsum(n))
+print(natsum(n)
+
+y  = x + 1
+x + 1 = y
+
+print(y)
